@@ -15,8 +15,8 @@ Gradient = 0;
 %       outcat: description of the clump:
 %               Peak1,Peak2,Peak3,Cen1,Cen2,Cen3,Size1,Size2,Size3,Sum,Peak,Volume
 %       out: data obtained through mask
-%       mask:  1,2,3,¡­
-% 2021/05/25  ĞŞ¸Ä  ±£ÁôÃÜ¶ÈºÍ¾àÀë×îµÍãĞÖµ×÷Îª¾ÛÀàÖĞĞÄµÄÅĞ±ğ×¼Ôò
+%       mask:  1,2,3,â€¦
+% 2021/05/25  ä¿®æ”¹  ä¿ç•™å¯†åº¦å’Œè·ç¦»æœ€ä½é˜ˆå€¼ä½œä¸ºèšç±»ä¸­å¿ƒçš„åˆ¤åˆ«å‡†åˆ™
 addpath E:\local_density_clustering\model\local_density_cluster_function
 tic
 if length(size(data))<=2
